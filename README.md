@@ -202,7 +202,7 @@ for idx, image in enumerate(images):
 
 ## 😁 Outputs
 
-![pharaoh](assets/pharaoh.png)
+<!-- ![pharaoh](assets/pharaoh.png)
 
 ![pharaoh-1](assets/pharaoh-1.png)
 
@@ -214,7 +214,7 @@ for idx, image in enumerate(images):
 
 ![dino](assets/dino.JPG)
 
-![astro](assets/astro.JPG)
+![astro](assets/astro.JPG) -->
 
 ```python
 python main.py infer \
@@ -223,19 +223,15 @@ python main.py infer \
     --output-dir output/satyajit
 ```
 
-![image](https://github.com/satyajitghana/sdxl-dreambooth-finetune/assets/8092481/97658eb6-f023-4e2c-a20c-eb4f73d36f92)
-
-
-
 ## Output of Combining LoRA
 
 Finetuned LoRA combined with `nerijs/pixel-art-xl` 
 
-![suit-pixel-lora](assets/pixel/suit-pixel.png)
+<!-- ![suit-pixel-lora](assets/pixel/suit-pixel.png)
 
 ![suit-pixel-lora-1](assets/pixel/suit-pixel-1.png)
 
-![suit-pixel-lora-2](assets/pixel/suit-pixel-2.png)
+![suit-pixel-lora-2](assets/pixel/suit-pixel-2.png) -->
 
 ## Stable Video Diffusion Output
 
