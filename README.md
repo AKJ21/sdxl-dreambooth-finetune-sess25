@@ -141,7 +141,7 @@ Steps 100% ━━━━━━━━━━━━━━━━━━━━━━━
 ## 🍺 Infer
 
 ```
-python main.py infer --prompt "a photo of a ohwx truck in a jungle" --lora-weights ./output/tresa-truck --output-dir output/infer-truck
+python main.py infer --prompt "a photo of a ohwx truck in a jungle" --lora-weights ./output/pytorch_lora_weights.safetensors --output-dir output/
 ```
 
 ## 🎭 Combining LoRA
